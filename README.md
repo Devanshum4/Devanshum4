@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [www.devanshumakwana.com](www.devanshumakwana.com), [Github] (https://www.linkedin.com/in/devanshumakwana)
+- 👨‍💻 All of my projects are available at [www.devanshumakwana.com](www.devanshumakwana.com), [[Github](https://github.com/Devanshum4)] 
 
 - 📫 How to reach me **devanshumakwana@uvic.ca**
 
