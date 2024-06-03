@@ -6,7 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [www.devanshumakwana.com](www.devanshumakwana.com), [Github](https://github.com/Devanshum4)
 
-- 📫 How to reach me **devanshumakwana@uvic.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
