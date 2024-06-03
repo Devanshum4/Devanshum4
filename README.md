@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [www.devanshumakwana.com](www.devanshumakwana.com), [Github](https://github.com/Devanshum4)
+- 👨‍💻 All of my projects are available at [www.devanshumakwana.com](http://bit.ly/devanshumakwana), [Github](https://github.com/Devanshum4)
 
 
 <h3 align="left">Connect with me:</h3>
